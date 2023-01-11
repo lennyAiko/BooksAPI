@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div className="App">
-      
+    <div id="main">
+      <h1>Ninja's Reading List</h1>
     </div>
   );
 }
